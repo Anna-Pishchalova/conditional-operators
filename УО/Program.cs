@@ -23,7 +23,7 @@ namespace УО
                         Console.WriteLine("Весна/осень");
                     }
                 break;
-                case 3 when (t >= 15):
+                case 3 when (t >= 15) :
                     {
                         Console.WriteLine("Лето");
                     }
