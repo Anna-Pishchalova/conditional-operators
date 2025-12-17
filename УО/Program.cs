@@ -15,10 +15,10 @@ namespace УО
             {
                 case 1 when (t < 0):
                     {
-                        Console.WriteLine("Зима") ;
+                        Console.WriteLine("Зима");
                     }
                 break;
-                case 2 when (t >= 0 && t <= 15) :
+                case 2 when (t >= 0 && t <= 15):
                     {
                         Console.WriteLine("Весна/осень");
                     }
